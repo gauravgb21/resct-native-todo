@@ -1,0 +1,12 @@
+{
+  "name": "rn-todo",
+  "displayName": "rn-todo",
+  "expo": {
+    "name": "rn-todo",
+    "slug": "rn-todo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
